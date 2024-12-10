@@ -1,0 +1,24 @@
+h1,h2{
+    color: blue;
+}
+.div1 p{
+    color: green;
+}
+
+#one{
+    height: 300px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 200px;
+    background-color: blue;
+    position: relative;
+}
+#two{
+    height: 200px;
+    width: 200px;
+   bottom: -50px;
+    margin-left: 250px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+}
